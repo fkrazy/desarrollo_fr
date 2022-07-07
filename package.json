@@ -52,7 +52,7 @@
     "jspdf": "^1.5.3",
     "jspdf-autotable": "^3.2.4",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mutationobserver-shim": "^0.3.3",
     "ng2-charts": "^2.3.0",
     "ngx-bootstrap": "^5.0.0",
